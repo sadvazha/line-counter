@@ -1,0 +1,4 @@
+# Dev modules
+node_modules/
+# Build files
+dist/
